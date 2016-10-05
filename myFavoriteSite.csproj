@@ -112,6 +112,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Content\StyleSheet.css" />
+    <Content Include="stock-photo-guinea-pig-with-glasses-reading-a-book-350629451.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
