@@ -4,6 +4,24 @@
 .navbar-brand{
      font-size:x-large;
      font-weight:700;
-     color:tan;
+     color:brown;
+}
+#navbar a{
+    color:brown;
+    text-align:right;
+    
+}
+#navbar a:hover{
+    background:none;
+}
+.mainSec {
+    background-image: url('../505272714.jpg');
+    background-size:cover;
+}
+#extra{
+    text-align:right;
+}
+.input-group{
+    text-align:right;
 }
 
